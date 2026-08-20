@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bgju1by6ww8s8"
+path="res://.godot/imported/aeugh_clean.mp3-1bb0b312a35a73aebd35be926f1952aa.mp3str"
+
+[deps]
+
+source_file="res://assets/sound effects/aeugh_clean.mp3"
+dest_files=["res://.godot/imported/aeugh_clean.mp3-1bb0b312a35a73aebd35be926f1952aa.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

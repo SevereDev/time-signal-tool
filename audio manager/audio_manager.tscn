@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://wc10v20j7y35"]
+
+[ext_resource type="Script" uid="uid://cu3senkbsn1ij" path="res://audio manager/audio_manager.gd" id="1_e840v"]
+[ext_resource type="Script" uid="uid://b76e2dg7lodvr" path="res://audio manager/resource templates/se_res.gd" id="3_lhao8"]
+[ext_resource type="Resource" uid="uid://br4uapgd8osj0" path="res://audio manager/sound effect resources/revolver_default.tres" id="3_qqitq"]
+[ext_resource type="Script" uid="uid://55nlmy51l5pg" path="res://audio manager/players/custom_audio_player.gd" id="4_x2r82"]
+
+[node name="AudioManager" type="Node2D" unique_id=845518338]
+script = ExtResource("1_e840v")
+sound_effects = Array[ExtResource("3_lhao8")]([ExtResource("3_qqitq")])
+
+[node name="MusicPlayer" type="AudioStreamPlayer" parent="." unique_id=1668431318]
+script = ExtResource("4_x2r82")
+metadata/_custom_type_script = "uid://55nlmy51l5pg"
+
+[node name="AmbiencePlayer" type="AudioStreamPlayer" parent="." unique_id=218132000]
+script = ExtResource("4_x2r82")
+metadata/_custom_type_script = "uid://55nlmy51l5pg"

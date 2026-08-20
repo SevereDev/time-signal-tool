@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="SoundEffect" format=3 uid="uid://br4uapgd8osj0"]
+
+[ext_resource type="Script" uid="uid://b76e2dg7lodvr" path="res://audio manager/resource templates/se_res.gd" id="1_1udeb"]
+[ext_resource type="AudioStream" uid="uid://bgju1by6ww8s8" path="res://assets/sound effects/aeugh_clean.mp3" id="2_1pj8f"]
+
+[resource]
+script = ExtResource("1_1udeb")
+limit = 3
+sound_file = ExtResource("2_1pj8f")
+metadata/_custom_type_script = "uid://b76e2dg7lodvr"

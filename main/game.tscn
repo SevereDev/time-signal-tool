@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://ddrwex1a6a73x"]
+
+[ext_resource type="Script" uid="uid://bnjuxlmearrre" path="res://main/main.gd" id="1_80nbo"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_63c7r"]
+
+[node name="Main" type="Node" unique_id=1317304314]
+script = ExtResource("1_80nbo")
+
+[node name="GameplayLayer" type="Area2D" parent="." unique_id=221935356]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="GameplayLayer" unique_id=1157908464]
+shape = SubResource("RectangleShape2D_63c7r")
+
+[node name="GuiLayer" type="Control" parent="." unique_id=2110290746]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2

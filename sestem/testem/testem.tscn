@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dya4d7qt8ulxc"]
+
+[ext_resource type="Script" uid="uid://we7pyot6ebkt" path="res://sestem/testem/testem.gd" id="1_l8lok"]
+
+[node name="Testem" type="Node" unique_id=1852816310]
+script = ExtResource("1_l8lok")

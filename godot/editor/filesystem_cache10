@@ -1,0 +1,87 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1787213083
+::res://assets/::1787157702
+::res://assets/sound effects/::1787211381
+aeugh_clean.mp3::AudioStreamMP3::2827394006842147065::1787211366::1787213084::1::::<><><>0<>0<>d3436ba6d388e932266c69073e49aa5d<>res://godot/imported/aeugh_clean.mp3-1bb0b312a35a73aebd35be926f1952aa.mp3str::
+::res://assets/soundtrack/::1787157702
+::res://audio manager/::1787211398
+add_sound_effects.gd::GDScript::526877773163488203::1787157702::0::1::::<>EditorScript<><>0<>1<><>::
+audio_manager.gd::GDScript::6235521564627566249::1787163119::0::1::::<>Node2D<><>0<>0<><>::
+audio_manager.tscn::PackedScene::1549907748053653798::1787211398::0::1::::<><><>0<>0<><>::uid://cu3senkbsn1ij::::res://audio manager/audio_manager.gd<>uid://b76e2dg7lodvr::::res://audio manager/resource templates/se_res.gd<>uid://br4uapgd8osj0::::res://audio manager/sound effect resources/revolver_default.tres<>uid://55nlmy51l5pg::::res://audio manager/players/custom_audio_player.gd
+static_player.gd::GDScript::8607193733685838298::1787157702::0::1::::StaticPlayer<>AudioStreamPlayer<><>0<>0<><>::
+::res://audio manager/background music resources/::1787157702
+::res://audio manager/background sound resources/::1787157702
+::res://audio manager/players/::1787157702
+custom_audio_player.gd::GDScript::2168406275155465396::1787157702::0::1::::CustomAudioStreamPlayer<>AudioStreamPlayer<><>0<>0<><>::
+custom_audio_player_2d.gd::GDScript::1111213440513032141::1787157702::0::1::::CustomAudioStreamPlayer2D<>AudioStreamPlayer2D<><>0<>0<><>::
+music_player.gd::GDScript::7653660297760534822::1787157702::0::1::::MusicPlayer<>AudioStreamPlayer<><>0<>0<><>::
+::res://audio manager/resource templates/::1787157702
+bgm_res.gd::GDScript::8551185243481336439::1787157702::0::1::::BackgroundMusic<>Resource<><>0<>0<><>::
+bgs_res.gd::GDScript::7718285766679424696::1787157702::0::1::::BackgroundSound<>Resource<><>0<>0<><>::
+se_res.gd::GDScript::4696750643200553095::1787157702::0::1::::SoundEffect<>Resource<><>0<>0<><>::
+::res://audio manager/sound effect resources/::1787211398
+revolver_default.tres::Resource/SoundEffect::3640713117562769779::1787211398::0::1::::<><><>0<>0<><>::uid://b76e2dg7lodvr::::res://audio manager/resource templates/se_res.gd<>uid://bgju1by6ww8s8::::res://assets/sound effects/aeugh_clean.mp3
+::res://data/::1787157702
+::res://data/index/::1787157702
+index.gd::GDScript::3880592461115323733::1787157702::0::1::::Index<>Node<><>0<>0<><>::
+::res://main/::1787211577
+game.tscn::PackedScene::7406267169072330815::1787157702::0::1::::<><><>0<>0<><>::uid://bnjuxlmearrre::::res://main/main.gd
+main.gd::GDScript::3318711060366136594::1787157702::0::1::::<>Node<><>0<>0<><>::
+med_timer.gd::GDScript::4054941463516664683::1787212530::0::1::::<>Control<><>0<>0<><>::
+med_timer.tscn::PackedScene::2955561452556179173::1787211577::0::1::::<><><>0<>0<><>::uid://bx1ij8isg4c4b::::res://main/med_timer.gd
+::res://scenes/::1787157702
+::res://scenes/characters/::1787157702
+::res://scenes/gui/::1787157702
+::res://scenes/gui/hud/::1787157702
+::res://scenes/gui/menus/::1787161771
+bangbutton.gd::GDScript::1612637693400305952::1787157702::0::1::::<>Button<><>0<>0<><>::
+test_menu.tscn::PackedScene::8032462426178310910::1787161771::0::1::::<><><>0<>0<><>::
+::res://scenes/levels/::1787157702
+::res://scenes/objects/::1787157702
+::res://sestem/::1787157703
+icon.svg::CompressedTexture2D::2913512729458465828::1787157702::1787213084::1::::<><><>0<>0<>b2500d32eff78c37a0c357acbbd1f0df<>res://godot/imported/icon.svg-c490ff00d14628fdbe5a0427cd9fa8df.ctex::
+old_sestem.gd::GDScript::6816184245040098223::1787157702::0::1::::OldSestem<>Node<><>0<>0<><>::
+README.md::TextFile::-1::1787157703::0::1::::<><><>0<>0<><>::
+root.tscn::PackedScene::757927002659904463::1787157703::0::1::::<><><>0<>0<><>::
+sestem.gd::GDScript::1392878372552501498::1787212420::0::1::::Sestem<>SesLibrary<><>0<>0<><>::
+sestem.tscn::PackedScene::1868372585670560765::1787157703::0::1::::<><><>0<>0<><>::uid://t3yrd2pybs1w::::res://sestem/sestem.gd<>uid://crdyguwhhhw5q::::res://sestem/system resource templates/settings.gd
+ses_library.gd::GDScript::8929466396173178055::1787159264::0::1::::SesLibrary<>Node<><>0<>0<><>::
+::res://sestem/console/::1787212754
+console.gd::GDScript::3680831579085197473::1787212039::0::1::::<>CanvasLayer<><>0<>0<><>::
+console.tscn::PackedScene::816697735665970675::1787212754::0::1::::<><><>0<>0<><>::uid://bspa01vpotjv2::::res://sestem/console/console.gd<>uid://bv62rsj5ijyh0::::res://sestem/fonts/robotomono/RobotoMono-Regular.ttf<>uid://keb5spfkx1vd::::res://sestem/fonts/robotomono/RobotoMono-Bold.ttf<>uid://r666b03lc6pi::::res://sestem/fonts/robotomono/RobotoMono-BoldItalic.ttf<>uid://bvisthpb1ku1d::::res://sestem/fonts/robotomono/RobotoMono-Italic.ttf<>uid://dfnl0jcnlnlhx::::res://sestem/fonts/robotomono/RobotoMono-SemiBold.ttf
+::res://sestem/console/command lists/::1787157703
+system_commands.gd::GDScript::4419559229299830700::1787157703::0::1::::<>Node<><>0<>0<><>::
+::res://sestem/console/resource templates/::1787157703
+command_list_res.gd::GDScript::2993197476920361342::1787157703::0::1::::CommandList<>Resource<><>0<>0<><>::
+command_res.gd::GDScript::2314516874337747739::1787157703::0::1::::Command<>Resource<><>0<>0<><>::
+::res://sestem/fonts/::1787157703
+RobotoMono-VariableFont_wght.ttf::FontFile::7570614546437599707::1787157703::1787213084::1::::<><><>0<>0<>5b65080a2f6788a6a9e0df2ae5e00ce0<>res://godot/imported/RobotoMono-VariableFont_wght.ttf-aa1abccb8855ae8cd81a4968bbea1455.fontdata::
+::res://sestem/fonts/orbitron/::1787157703
+Orbitron-Black.ttf::FontFile::3925617786640514398::1787157703::1787213084::1::::<><><>0<>0<>520bf124472d2ca5704c4e56aa424fbf<>res://godot/imported/Orbitron-Black.ttf-98999d201c9740149a37790f5703c90c.fontdata::
+Orbitron-Bold.ttf::FontFile::9218471618461910780::1787157703::1787213084::1::::<><><>0<>0<>88e1202af03067301b2bf4978a92b133<>res://godot/imported/Orbitron-Bold.ttf-8274503b881e029f58644c138bcc78e1.fontdata::
+Orbitron-ExtraBold.ttf::FontFile::577324396469907541::1787157703::1787213084::1::::<><><>0<>0<>10d649776cdf34e394e38d95e966f7d6<>res://godot/imported/Orbitron-ExtraBold.ttf-9202b61acb14a6a9da64a9d23a3b8adb.fontdata::
+Orbitron-Medium.ttf::FontFile::6361750173175516358::1787157703::1787213084::1::::<><><>0<>0<>eab1052775f12a3181e588dbd018526b<>res://godot/imported/Orbitron-Medium.ttf-880f0b9685fb91f13b744af62bda452e.fontdata::
+Orbitron-Regular.ttf::FontFile::5406616477554939503::1787157703::1787213084::1::::<><><>0<>0<>1146d2f92b0992b127fe99f8ef994176<>res://godot/imported/Orbitron-Regular.ttf-b60f565195181fbae425a2c9bcd3c7f0.fontdata::
+Orbitron-SemiBold.ttf::FontFile::2713834787849910655::1787157703::1787213084::1::::<><><>0<>0<>d16fbf9601efce024bef8bd5262ca58f<>res://godot/imported/Orbitron-SemiBold.ttf-3262aaad5c44726468cc3c8eb715e2e9.fontdata::
+::res://sestem/fonts/robotomono/::1787157703
+RobotoMono-Bold.ttf::FontFile::710261207040320365::1787157703::1787213084::1::::<><><>0<>0<>041abc37d7db8a7942b71c70d9ae9ae4<>res://godot/imported/RobotoMono-Bold.ttf-77f5ac2df89b876d904174d9a4afd273.fontdata::
+RobotoMono-BoldItalic.ttf::FontFile::1259143731039682818::1787157703::1787213084::1::::<><><>0<>0<>300626be0ba21fc935fe80ef80b00894<>res://godot/imported/RobotoMono-BoldItalic.ttf-21d02366e1924380aa522669e1333883.fontdata::
+RobotoMono-ExtraLight.ttf::FontFile::4637630843122628561::1787157703::1787213084::1::::<><><>0<>0<>4d81622fe03c48b91a5afb2b2a09ddc6<>res://godot/imported/RobotoMono-ExtraLight.ttf-78c5e0c40657f1dcc22d757932fac2ed.fontdata::
+RobotoMono-ExtraLightItalic.ttf::FontFile::4209463316819506458::1787157703::1787213084::1::::<><><>0<>0<>64885a3a99f1c6836cf2ed6bb7fe935f<>res://godot/imported/RobotoMono-ExtraLightItalic.ttf-72fe2aee3d01bc9cb5b01ccf8aeecb1d.fontdata::
+RobotoMono-Italic.ttf::FontFile::3878028648994363159::1787157703::1787213084::1::::<><><>0<>0<>76d91ce2209496f943feaaa63843aa0d<>res://godot/imported/RobotoMono-Italic.ttf-801c9a4262514c7718a55f0045b8dca0.fontdata::
+RobotoMono-Light.ttf::FontFile::7863813007788438550::1787157703::1787213084::1::::<><><>0<>0<>d9f64c0bc9c9de777831c4753e50fe2a<>res://godot/imported/RobotoMono-Light.ttf-8cff85f65e9740e8f3069b0088c691f5.fontdata::
+RobotoMono-LightItalic.ttf::FontFile::2388868211211903796::1787157703::1787213084::1::::<><><>0<>0<>a7c45de644722af38af51230c1696a84<>res://godot/imported/RobotoMono-LightItalic.ttf-98c70339aca5d574c3d6694be5f1ce1b.fontdata::
+RobotoMono-Medium.ttf::FontFile::3785612983581382302::1787157703::1787213084::1::::<><><>0<>0<>547c1463a97b8eceea4c8564ec846ba4<>res://godot/imported/RobotoMono-Medium.ttf-d0fe896290ef7979aa05b73a316d4097.fontdata::
+RobotoMono-MediumItalic.ttf::FontFile::8750528275154374877::1787157703::1787213084::1::::<><><>0<>0<>710e502ee34ec882dc36eea140a43dfe<>res://godot/imported/RobotoMono-MediumItalic.ttf-2aca67ad687bdf8752e8f7750ccbc9cd.fontdata::
+RobotoMono-Regular.ttf::FontFile::3926052788466389423::1787157703::1787213084::1::::<><><>0<>0<>9fd9ed87669c0846c62d9e453db7e99d<>res://godot/imported/RobotoMono-Regular.ttf-8ba8cbc6f919656dc700bd59d6a40a91.fontdata::
+RobotoMono-SemiBold.ttf::FontFile::7537756188245939945::1787157703::1787213084::1::::<><><>0<>0<>9c19ead7ccb100e562728b31e95b6cd2<>res://godot/imported/RobotoMono-SemiBold.ttf-da748c01534423ecd1ccebf2a884efcd.fontdata::
+RobotoMono-SemiBoldItalic.ttf::FontFile::4955409891164984828::1787157703::1787213084::1::::<><><>0<>0<>1ed3d94021e4f9a63a209ac6759022bb<>res://godot/imported/RobotoMono-SemiBoldItalic.ttf-474bae347fab633340ffb6e32fa53648.fontdata::
+RobotoMono-Thin.ttf::FontFile::1500608826803432325::1787157703::1787213084::1::::<><><>0<>0<>92c96d5624ef8e4534f56f1858781345<>res://godot/imported/RobotoMono-Thin.ttf-ff8f4e00ee1b90c145d49a7f21099cc0.fontdata::
+RobotoMono-ThinItalic.ttf::FontFile::3922394083578212815::1787157703::1787213084::1::::<><><>0<>0<>f07b9ef0226891514940a6651048de10<>res://godot/imported/RobotoMono-ThinItalic.ttf-39adebdb07a54d92465049b1eedb3e46.fontdata::
+::res://sestem/system resource templates/::1787157703
+log_res.gd::GDScript::9044114585654726752::1787157703::0::1::::LogEntry<>Resource<><>0<>0<><>::
+settings.gd::GDScript::5973713849865160428::1787157703::0::1::::SettingsList<>Resource<><>0<>0<><>::
+::res://sestem/testem/::1787157703
+testem.gd::GDScript::1554383084822575323::1787157703::0::1::::<>SesLibrary<><>0<>0<><>::
+testem.tscn::PackedScene::8845562154936269516::1787157703::0::1::::<><><>0<>0<><>::uid://we7pyot6ebkt::::res://sestem/testem/testem.gd
+test_report_template.gd::GDScript::8668591473258308493::1787157703::0::1::::TestReport<>Resource<><>0<>0<><>::
